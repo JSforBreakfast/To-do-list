@@ -1,2 +1,2 @@
 # To-do-list
-Practice project
+Practice project (to be continued)
